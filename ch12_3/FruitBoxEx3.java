@@ -25,6 +25,9 @@ class Juicer {
         return new Juice(tmp);
     }
 }
+//FruitBox 클래스의 제네릭타입은 Fruit을 상속한 <T>를 사용.
+//FruitBox 클래스은 Box를 상속받아서 사용.
+//FruitBox는 사용만 하고, 내용은 부모클래스인 Box에서 했기때문에, extends.
 class FruitBox<T extends Fruit> extends Box<T>{}
 
 class Box<T>{

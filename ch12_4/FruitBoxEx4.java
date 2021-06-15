@@ -32,7 +32,9 @@ class Grape extends Fruit{
     }
 }
 
-class AppleComp implements Comparator<Apple>{
+//부모객체인 Apple은 선언만 되고, 자식 클래스에서 오버라이딩하여 사용하기때문에,
+//implements임.
+class AppleComp implements Comparator<Apple>{           
     public int compare(Apple t1, Apple t2)
     {
         return t2.weight-t1.weight;
