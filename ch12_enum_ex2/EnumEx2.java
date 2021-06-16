@@ -1,5 +1,5 @@
 package ch12_enum_ex2;
-
+//enum에 데이터 추가, (인트, 스트링)
 enum Direction{
     EAST(1,">"), WEST(2,"V"), SOUTH(3,"<"), NORTH(4,"^"); 
     

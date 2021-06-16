@@ -2,7 +2,7 @@ package ch12_enum_ex1;
 
 import java.lang.Enum;
 import java.util.Arrays;
-
+//단순한 Enum 선언.
 enum Direction { EAST, WEST, SOUTH, NORTH }
 
 public class EnumEx1 {

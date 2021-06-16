@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayEx",
+            "request": "launch",
+            "mainClass": "ch11.ArrayEx",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx1",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx2",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListLInkedListTest",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListLInkedListTest",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListLinkedListTest2",
+            "request": "launch",
+            "mainClass": "ch11.ArrayListLinkedListTest2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bingo",
+            "request": "launch",
+            "mainClass": "ch11.Bingo",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx1",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx2",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapEx4",
+            "request": "launch",
+            "mainClass": "ch11.HashMapEx4",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx1",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx3",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx3",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx4",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx4",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetEx5",
+            "request": "launch",
+            "mainClass": "ch11.HashSetEx5",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetLotto",
+            "request": "launch",
+            "mainClass": "ch11.HashSetLotto",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch HaspMapEx3",
+            "request": "launch",
+            "mainClass": "ch11.HaspMapEx3",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorEx1",
+            "request": "launch",
+            "mainClass": "ch11.IteratorEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListIteratorEx1",
+            "request": "launch",
+            "mainClass": "ch11.ListIteratorEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListIteratorEx2",
+            "request": "launch",
+            "mainClass": "ch11.ListIteratorEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx1",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx2",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesEx3",
+            "request": "launch",
+            "mainClass": "ch11.PropertiesEx3",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueEx1",
+            "request": "launch",
+            "mainClass": "ch11.QueueEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackEx1",
+            "request": "launch",
+            "mainClass": "ch11.StackEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackQueueEx1",
+            "request": "launch",
+            "mainClass": "ch11.StackQueueEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeMapEx1",
+            "request": "launch",
+            "mainClass": "ch11.TreeMapEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetEx1",
+            "request": "launch",
+            "mainClass": "ch11.TreeSetEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetEx2",
+            "request": "launch",
+            "mainClass": "ch11.TreeSetEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetLotto",
+            "request": "launch",
+            "mainClass": "ch11.TreeSetLotto",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidCHeck",
+            "request": "launch",
+            "mainClass": "ch11.ValidCHeck",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch VectorEx1",
+            "request": "launch",
+            "mainClass": "ch11.VectorEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruitBoxEx1",
+            "request": "launch",
+            "mainClass": "ch12.FruitBoxEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruitBoxEx3",
+            "request": "launch",
+            "mainClass": "ch12_3.FruitBoxEx3",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruitBoxEx4",
+            "request": "launch",
+            "mainClass": "ch12_4.FruitBoxEx4",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumEx1",
+            "request": "launch",
+            "mainClass": "ch12_enum_ex1.EnumEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumEx2",
+            "request": "launch",
+            "mainClass": "ch12_enum_ex2.EnumEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumEx3",
+            "request": "launch",
+            "mainClass": "ch12_enum_ex3.EnumEx3",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadEx1",
+            "request": "launch",
+            "mainClass": "ch13.ThreadEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        }
+    ]
+}
