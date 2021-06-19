@@ -10,8 +10,8 @@ public class ThreadEx10 implements Runnable{
         for(int i=1;i<=20;i++)
         {
             try{
-                Thread.sleep(1000);
-            }catch(InterruptedException e){}
+                Thread.sleep(1000);                 //main Thread sleep for 1000ms
+            }catch(InterruptedException e){}        //슬립 후, 쓰레드를 다시 동작시키기 위해서 인터럽트 호출(인터럽트 익셉션)
             
             System.out.println(i);
 
