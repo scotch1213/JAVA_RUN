@@ -5,6 +5,7 @@ import java.util.stream.*;
 
 public class StreamEx1 {
     public static void main(String[] args) {
+        //Student Class로 Stream 선언.
         Stream<Student> studentStream = Stream.of(
             new Student("이자바",3,300),
             new Student("김자바",1,200),
@@ -15,9 +16,9 @@ public class StreamEx1 {
             new Student("감자바",3,180)
         );
         
-        studentStream.sorted(Comparator.comparing(Student::getBan)
-                            .thenComparing(Comparator.naturalOrder()))
-                            .forEach(System.out::println);
+        studentStream.sorted(Comparator.comparing(Student::getBan)                  //Student Class 중 '반'을 기준으로 정렬.
+                            .thenComparing(Comparator.naturalOrder()))              //Student Class 중 '반'을 기준으로 정렬 이후 내림차순 정렬.
+                            .forEach(System.out::println);                          //Stream 요소에 할 액션.
     }
 }
 
