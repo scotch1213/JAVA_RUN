@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FileViewer",
+            "request": "launch",
+            "mainClass": "ch15.FileViewer",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },
+        {
+            "type": "java",
             "name": "Launch ThreadEx18",
             "request": "launch",
             "mainClass": "ch13.ThreadEx18",
