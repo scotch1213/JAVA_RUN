@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 
 public class FileEx4 {
     public static void main(String[] args) {
-        File dir = new File("D:\\Github\\JAVA_RUN-1\\ch15");
+        File dir = new File("D:\\Github\\JAVA_RUN-1");
         System.out.println("File Name : "+dir.getName());
 
         File[] files = dir.listFiles();
