@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NetworkEx1",
+            "request": "launch",
+            "mainClass": "ch16.NetworkEx1",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },{
+            "type": "java",
+            "name": "Launch NetworkEx2",
+            "request": "launch",
+            "mainClass": "ch16.NetworkEx2",
+            "projectName": "JAVA_RUN-1_1b330d25"
+        },{
+            "type": "java",
             "name": "Launch FileViewer",
             "request": "launch",
             "mainClass": "ch15.FileViewer",
